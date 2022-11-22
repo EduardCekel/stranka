@@ -6,7 +6,6 @@ include("auth/DB.php");
 
 $db = new DB();
 $aut = new Auth();
-
 ?>
     <div class="navbar navbar-expand-sm" style = "background-color: rgb(10, 149, 95);">
         <div  class="navbar-nav" style = "position: right;">
